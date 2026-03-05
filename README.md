@@ -20,15 +20,33 @@
   </p>
 </div>
 
----
+<br>
 
 ### 🌱 O Que Ando a Aprender
-Focado na orquestração de **Agentes Autónomos de IA** (LangChain, Tool Calling) e na preparação para o ecossistema Web Full-Stack (**Vue.js / Nuxt.js**).
----
+<p>Focado na orquestração de <b>Agentes Autónomos de IA</b> (LangChain, Tool Calling) e na preparação para o ecossistema Web Full-Stack (Vue.js / Nuxt.js).</p>
+
+<br>
+
+### 🚀 Projetos em Destaque
+
+| 🤖 Oráculo RAG (IA) | ⚙️ TaskManager API |
+| :---: | :---: |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain"/> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
+| Sistema de <i>Retrieval-Augmented Generation</i> construído do zero com pesquisa vetorial semântica e API LLM. | API RESTful com validação via Pydantic, PostgreSQL em containers isolados e pipeline CI/CD Automática. |
+
+<br>
+
+### 📚 Arquivo Académico
+<p>A minha jornada na <b>Universidade do Minho</b>, com foco em Sistemas, Algoritmos e Arquitetura.</p>
+
+👉 [Ver Repositório UMinho](COLA_AQUI_O_LINK_DO_TEU_REPO_DA_UMINHO)
+
 <br>
 
 <div align="center">
-  <a href="mailto:TEU-EMAIL@gmail.com">Email</a> • <a href="https://linkedin.com/in/TEU-LINKEDIN">LinkedIn</a>
+  <hr>
+  <a href="mailto:TEU_EMAIL_AQUI@gmail.com">Email</a> • <a href="https://linkedin.com/in/TEU_LINKEDIN_AQUI">LinkedIn</a>
   <br>
-  <i>[Teu Nome] © 2026</i>
+  <br>
+  <i>Diogo © 2026</i>
 </div>
