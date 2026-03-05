@@ -31,7 +31,7 @@
 
 | 🤖 Oráculo RAG (IA) | ⚙️ TaskManager API |
 | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain"/> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain"/> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" href="https://github.com/Kyuma23/todo-api" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
 | Sistema de <i>Retrieval-Augmented Generation</i> construído do zero com pesquisa vetorial semântica e API LLM. | API RESTful com validação via Pydantic, PostgreSQL em containers isolados e pipeline CI/CD Automática. |
 
 <br>
