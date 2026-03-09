@@ -38,7 +38,7 @@
 
 <div align="center">
   <hr>
-  <a href="mailto:TEU_EMAIL_AQUI@gmail.com">Email</a> • <a href="https://linkedin.com/in/TEU_LINKEDIN_AQUI">LinkedIn</a>
+  <a href="mailto:diogocampos2005@gmail.com">Email</a> • <a href="https://linkedin.com/in/diogo-campos-aabb23333">LinkedIn</a>
   <br>
   <br>
   <i>Diogo © 2026</i>
