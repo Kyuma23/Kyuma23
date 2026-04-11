@@ -31,10 +31,10 @@
 <br>
 
 ### Projetos em Destaque
-| Oráculo RAG (IA) | [MyTodo Full-Stack](https://github.com/Kyuma23/todo-api) |
+| [⚖️ LegalEagle RAG API](https://github.com/Kyuma23/legaleagle-api) | [📝 MyTodo Full-Stack](https://github.com/Kyuma23/todo-api) |
 | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain"/> | <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 3"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
-| Sistema de <i>Retrieval-Augmented Generation</i> construído do zero com pesquisa vetorial semântica e API LLM. | Ecossistema completo com <b>Interface Kanban Reativa</b>, API RESTful (FastAPI) e persistência PostgreSQL orquestrada via Docker. |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <br> <img src="https://img.shields.io/badge/ChromaDB-FF9600?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB"/> <img src="https://img.shields.io/badge/Llama_3-181818?style=flat-square&logo=meta&logoColor=white" alt="Llama-3"/> | <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt 3"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> |
+| Sistema de *LegalTech* (IA) construído com pesquisa vetorial híbrida e Llama-3. Interroga legislação complexa com contexto estrito e **zero alucinações**. | Ecossistema completo com **Interface Kanban Reativa**, API RESTful (FastAPI) e persistência PostgreSQL orquestrada via Docker. |
 
 <div align="center">
   <hr>
